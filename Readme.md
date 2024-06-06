@@ -11,3 +11,11 @@
   <li>Dapat mengupload file excel (daftar tamu undangan).</li>
   <li>Dapat mengirim pesan ke banyak tamu undangan sekaligus.</li>
 </ol>
+<hr>
+<h1>Daftar Admin Menu :</h1>
+<ol>
+  <li>Dashboard</li>
+  <li>Upload Resource</li>
+  <li>Daftar User</li>
+  <li>Template</li>
+</ol>
